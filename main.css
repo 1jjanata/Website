@@ -4,12 +4,54 @@ body{
 }
 
 /*IDs in css begin with a hashtag*/
-#idname{
-
+#c1header{
+    width: 500px;
+    height: 300px;
+    background-color: blue;
 }
+
+#c1section{
+    width: 500px;
+    height: 100px;
+    background-color: red;
+}
+
+#c1sectionII{
+    width: 500px;
+    height: 100px;
+    background-color: green;
+}
+
+#c1sectionIII{
+    width: 500px;
+    height: 100px;
+    background-color: yellow;
+}
+
+#c1footer{
+    width: 500px;
+    height: 300px;
+    background-color: purple;
 
 
 /*CLASSES in css begin with a dot*/
 .classname{
 
+
+
 }
+.red{
+    background-color: red;
+    height: 200px;
+}
+.blue{
+    background-color: blue;
+    height: 200px;
+}
+.fifty{
+    width: 50%;
+}
+#twenty-five{
+    width: 25%;
+}
+
