@@ -1,7 +1,4 @@
-/*Will able to everything as a default*/
-body{
 
-}
 
 /*IDs in css begin with a hashtag*/
 #c1header{
@@ -33,13 +30,9 @@ body{
     height: 300px;
     background-color: purple;
 
-
-/*CLASSES in css begin with a dot*/
-.classname{
-
-
-
 }
+/*CLASSES in css begin with a dot*/
+
 .red{
     background-color: red;
     height: 200px;
